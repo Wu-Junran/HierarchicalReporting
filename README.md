@@ -1,7 +1,8 @@
-#A Simple yet Effective Method for Graph Classification
+# A Simple yet Effective Method for Graph Classification
+
 This repository is the official PyTorch implementation of the experiments in the following paper:
 
-Junran Wu, Shangzhe Li$^+$, Jianhao Li, Yicheng Pan\*, Ke Xu\*. A Simple yet Effective Method for Graph Classification. IJCAI 2022 (Long Oral).
+Junran Wu, Shangzhe Li <sup>+</sup>, Jianhao Li, Yicheng Pan\*, Ke Xu\*. A Simple yet Effective Method for Graph Classification. IJCAI 2022 (Long Oral).
 
 [IJCAI 2022](https://www.ijcai.org/proceedings/2022/497) [arXiv](https://arxiv.org/abs/2206.02404)
 
